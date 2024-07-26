@@ -1,3 +1,7 @@
+"""
+Pascal's Triangle
+"""
+
 def pascal_triangle(n):
     # Base case: if n <= 0, return an empty list
     if n <= 0:
